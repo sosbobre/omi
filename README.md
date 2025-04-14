@@ -1,6 +1,6 @@
 <div align="center">
 
-# **omi**
+# **QuantumID**
 
 Meet Omi, the world’s leading open-source AI wearable that captures conversations, gives summaires, action items and does actions for you. Simply connect Omi to your mobile device and enjoy automatic, high-quality
 transcriptions of meetings, chats, and voice memos wherever you are.
